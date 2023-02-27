@@ -8,3 +8,5 @@ O projeto foi desenvolvido utilizando a linguagem de programação Python para c
 * API Finnhub
 * Google BigQuery
 * Looker Studio
+
+<a href="https://lookerstudio.google.com/reporting/a650bf28-e033-4b94-bf2d-a55e6bbc22d5/page/EafFD">Link do Dashboard</a>
